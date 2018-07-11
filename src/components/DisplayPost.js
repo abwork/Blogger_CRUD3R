@@ -6,6 +6,7 @@ class DisplayPost extends Component {
     render () {
         return (
             <div>
+                
             </div>
         );
     }

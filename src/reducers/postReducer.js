@@ -1,3 +1,7 @@
+
+import React from 'react';
+import { reduxForm } from 'redux-form';
+
 const postReducer = (state = [], action) => {
     switch(action.type) {
         case 'ADD_POST':
